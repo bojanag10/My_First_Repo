@@ -1,0 +1,13 @@
+body{
+    background-color:#E1C5C0 ;
+    height: 100%;
+}
+.Home{
+    display: inline-block;
+}
+.Diet{ 
+    display: inline-block;
+}
+.Habitat{
+    display: inline-block;
+}
